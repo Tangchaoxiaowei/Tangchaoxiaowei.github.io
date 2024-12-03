@@ -3,27 +3,40 @@ layout: page
 permalink: /awards/index.html
 title: Awards
 ---
-<!--
-> Update: 3th December 2024
--->
-## Scholarships
-<!--
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
--->
-## Competitions
-<!--
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
--->
-<br>
+
+## Awards & Honors
+
+- Dec 2022：**First Prize** (Fujian Competition Area, Top 8%) in China Undergraduate Mathematical Contest in Modeling (Top 10%)
+- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2021/2022 (Top 8%, **Only One Team**)
+- Sep 2022：Nomination for China National Scholarship (Top 1%)
+- Sep 2022：First Prize Scholarship of FZU (**Only Best Student** in my major, **1/60**)
+- Aug 2022： Third Prize (Top 5%, **Only One Team** at FZU) in China National College Student Computer Design Competition
+- June 2022：Second Prize (Top 10%) in Fujian College Student Computer Design Competition
+- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
+- June 2022：Third Prize (Top 15%) in the 13th "Nanwei" Cup Mathematical Mathematical Contest in Modeling
+- May 2022：Third Prize (Top 15%, Short Videos Group) in China National College Student New Media Competition
+- March 2022：First Prize Scholarship of FZU (**1/60**)
+- Sep 2021：Third Prize Scholarship of FZU (Top 15%)
+- May 2021：Merit Student of Fuzhou University
+- March 2021：First Prize Scholarship of FZU (**1/60**)
+
+
+
+## Services
+
+- Oct 2022 - June 2024：Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, Fuzhou University
+- Sep 2022 - Sep 2023：IEEE Student Membership
+- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fuzhou University
+- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College, Fuzhou University
+
+
+
+## Voluntary
+
+- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of the year 2021-2022 at Fuzhou University
+- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
+- April 2021：Outstanding volunteer at 4th Digital China Summit
+
+
+
+Lastest Update: 7th March 2023 &nbsp; [中文版 (Chinese Version)](https://caihanlin.com/awards-zh/)
